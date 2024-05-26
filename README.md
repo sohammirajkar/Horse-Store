@@ -21,7 +21,7 @@ To get started, ensure you have the following installed:
 1. **Clone the repository & install dependencies**:
 
    ```
-   git clone https://github.com/sohammirajkar/Horse_Store.git
+   git clone https://github.com/sohammirajkar/Horse-Store.git
    cd Horse_Store
    make
    ```
@@ -49,7 +49,9 @@ solc --optimize --optimize-runs 20000 src/HorseStoreYul.sol --bin | grep 60
 
 ## Repository
 
-You can find the repository [here](https://github.com/sohammirajkar/Horse_Store.git).
+You can find the repository [here](https://github.com/sohammirajkar/Horse-Store.git).
 
 Feel free to explore, learn, and contribute! Happy coding! 🐴🚀
+
 # Horse_Store
+# horse-store
